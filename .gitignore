@@ -1,0 +1,4 @@
+src/main/resources/dictionaries/output-concise.txt
+src/main/resources/dictionaries/output-naver.txt
+backup/**
+target/**
